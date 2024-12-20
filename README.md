@@ -1,1 +1,1 @@
-Projeto para correção da atividade 2 do curso Java Spring Professional da plataforma DevSuperior
+Projeto para correção do desafio 2 do curso Java Spring Professional da plataforma DevSuperior
